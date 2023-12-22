@@ -1,0 +1,3 @@
+create database wholesale in phpmyadmin
+import the sql file in this database in phpmyadmin
+save the folder Grocigo in htdocs in xampp
